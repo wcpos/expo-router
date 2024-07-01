@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "wcpos",
+    "userInterfaceStyle": "automatic",
+    "orientation": "default",
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": [
+      [
+        "expo-router",
+        {
+          "origin": "https://n"
+        }
+      ]
+    ],
+    "name": "WooCommerce POS",
+    "slug": "wcpos",
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
